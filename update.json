@@ -1,17 +1,9 @@
 {
-  "appId": "QUANLYSANXUAT_AHP",
-  "enabled": true,
-  "title": "Co ban cap nhat moi cho QLSX AHP.",
-  "github": {
-    "owner": "levanminhbkhcm",
-    "repository": "QLSX_AHP_Update",
-    "assetName": "QUANLYSANXUAT_AHP.zip"
-  },
-  "asset": {
-    "type": "zip"
-  },
-  "restart": {
-    "executable": "QUANLYSANXUAT_AHP.exe",
-    "arguments": ""
-  }
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/levanminhbkhcm/QLSX_AHP_Update/releases/latest/download/QUANLYSANXUAT_AHP.zip",
+  "releasePageUrl": "https://github.com/levanminhbkhcm/QLSX_AHP_Update/releases/latest",
+  "assetName": "QUANLYSANXUAT_AHP.zip",
+  "installerType": "zip",
+  "releaseName": "QUAN LY SAN XUAT AHP 1.0.1",
+  "releaseNotes": "Cap nhat phan mem."
 }
