@@ -1,0 +1,17 @@
+{
+  "appId": "QUANLYSANXUAT_AHP",
+  "enabled": true,
+  "title": "Co ban cap nhat moi cho QLSX AHP.",
+  "github": {
+    "owner": "levanminhbkhcm",
+    "repository": "QLSX_AHP_Update",
+    "assetName": "QUANLYSANXUAT_AHP.zip"
+  },
+  "asset": {
+    "type": "zip"
+  },
+  "restart": {
+    "executable": "QUANLYSANXUAT_AHP.exe",
+    "arguments": ""
+  }
+}
